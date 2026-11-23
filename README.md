@@ -1,10 +1,10 @@
-# To do List !!
+# A TUI TODO LIST !!
 
 ## HOW TO RUN:
 1. Create virtual environment:
-```bash
-python3 -m venv .venv
-```
+    ```bash
+    python3 -m venv .venv
+    ```
 2. Activates virtual environment:
 - Windows:
     ```powershell
@@ -21,11 +21,11 @@ python3 -m venv .venv
         ```
 
 3. Downloads required libraries:
-```bash
-pip install -r requirements.txt
-```
+    ```bash
+    pip install -r requirements.txt
+    ```
 
 4. Run the app
-```bash
-python3 install app.py
-```
+    ```bash
+    python3 install app.py
+    ```
