@@ -1,6 +1,6 @@
-#To do List !!
+# To do List !!
 
-##HOW TO RUN:
+## HOW TO RUN:
 Create virtual environment:
 ```
 python3 -m venv .venv
